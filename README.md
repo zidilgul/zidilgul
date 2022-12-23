@@ -1,45 +1,18 @@
-### Hello, I am Zeynep İdil Gül 👋
+### Hi there 👋, my name is İdil!
+#### I am a Computer Engineer
 
-<!-- - 🌱 I’m currently learning Swift. -->
-- 🤔 I’m looking for help with React.
-- 💬 Ask me about everything.
-- 📫 How to reach me: z_idilgul@hotmail.com
-- 🖥️ Visit my website: [zeynepidilgul.com](zeynepidilgul.com)
+Skills: ANGULAR / REACT / JS / HTML / CSS / JAVA / C# / TS
 
-<br />
-<img alt="İdil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zidilgul&show_icons=true&theme=aura">
-<br />
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidilgul&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff">
+- 🔭 I’m currently working on Java. 
+- 💬 Ask me about everything 
+- 📫 How to reach me: z_idilgul@hotmail.com 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zidilgul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/z-idil-gul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zidilgul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](zeynepidilgul.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/z_idilgul)  
 
-<!-- ### Connect with me:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidilgul)](https://github.com/anuraghazra/github-readme-stats)
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/z-idil-gul#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/z-idil-gul#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/zidilgul#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/zidilgul#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/zidilgul#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/zidilgul#gh-dark-mode-only) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zidilgul&show_icons=true)  
 
-<!-- ### Languages and Tools:-->
+![GitHub streak stats](https://streak-stats.demolab.com/?user=zidilgul)  
 
-<!--<img align="left" alt="Visual Studio Code" width="26px" src="./img/vscode.png" style="padding-right:10px;" title="Visual Studio Code"/>
-<img align="left" alt="Visual Studio" width="26px" src="./img/vs.png" style="padding-right:10px;" title="Visual Studio"/>
-<img align="left" alt="HTML5" width="26px" src="./img/html.png" style="padding-right:10px;" title="HTML5"/>
-<img align="left" alt="CSS3" width="26px" src="./img/css.png" style="padding-right:10px;" title="CSS3"/>
-<img align="left" alt="SCSS/SASS" width="26px" src="./img/scss.png" style="padding-right:10px;" title="SCSS/SASS"/>
-<img align="left" alt="JavaScript" width="26px" src="./img/js.png" style="padding-right:10px;" title="JavaScript"/>
-<img align="left" alt="TypeScript" width="26px" src="./img/ts.png" style="padding-right:10px;" title="TypeScript"/>
-<img align="left" alt="Git" width="26px" src="./img/git.png" style="padding-right:10px;" title="Git"/>
-<img align="left" alt="React" width="26px" src="./img/react.png" style="padding-right:10px;" title = "React"/> -->
-
-<!-- <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /> -->
-<!-- <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> -->
-
-
-[twitter]: https://twitter.com/zidilgul
-[instagram]: https://instagram.com/zidilgul
-[linkedin]: https://linkedin.com/in/z-idil-gul
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=zidilgul)](https://github.com/ryo-ma/github-profile-trophy)
