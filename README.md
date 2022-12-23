@@ -2,9 +2,6 @@
 <h3 align="center">I am a Computer Engineer</h3>
 
 - 🌱 I’m currently learning **Java**
-
-- 👨‍💻 All of my projects are available at [zeynepidilgul.com](zeynepidilgul.com)
-
 - 📫 How to reach me **z_idilgul@hotmail.com**
 
 
