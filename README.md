@@ -13,7 +13,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidilgul&theme=aura" alt="zidilgul" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zidilgul&theme=dark" alt="zidilgul" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=zidilgul&theme=onedark" alt="zidilgul" /></a> </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=zidilgul&theme=darkhub" alt="zidilgul" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
