@@ -6,9 +6,9 @@
 - 📫 How to reach me: z_idilgul@hotmail.com
 - 🖥️ Visit my website: [zeynepidilgul.com](zeynepidilgul.com)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/zidilgul?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-
+<br />
+<img alt="İdil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zidilgul&show_icons=true&theme=aura">
+<br />
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidilgul&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff">
 
 
@@ -37,9 +37,6 @@
 
 <!-- <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /> -->
 <!-- <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> -->
-
-<br />
-<br />
 
 
 [twitter]: https://twitter.com/zidilgul
