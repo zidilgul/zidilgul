@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İdil</h1>
 <h3 align="center">I am a Computer Engineer</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C#**
 - 📫 How to reach me **z_idilgul@hotmail.com**
 
 
