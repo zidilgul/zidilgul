@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İdil</h1>
-<h3 align="center">I am a Computer Engineer</h3>
+<h3 align="center">I am a Computer Engineer 👩🏻‍💻</h3>
 
 - 🌱 I’m currently working on my **Frontend Development** skills
 - 📫 How to reach me **z_idilgul@hotmail.com**
